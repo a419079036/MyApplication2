@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day03_01sqlite" />
+            <option value="$PROJECT_DIR$/day03_02shiwu" />
+            <option value="$PROJECT_DIR$/day03_03listview" />
+            <option value="$PROJECT_DIR$/day03_04listview" />
+            <option value="$PROJECT_DIR$/day03_05listview" />
+            <option value="$PROJECT_DIR$/day03_06arrayadapter" />
+            <option value="$PROJECT_DIR$/day03_07simpleadapter" />
+            <option value="$PROJECT_DIR$/day04_01urlconnection" />
+            <option value="$PROJECT_DIR$/day04_02photos" />
+            <option value="$PROJECT_DIR$/day04_02test" />
+            <option value="$PROJECT_DIR$/day04_03cache" />
+            <option value="$PROJECT_DIR$/day04_03caches" />
+            <option value="$PROJECT_DIR$/day04_04handerapi" />
+            <option value="$PROJECT_DIR$/day04_05xinwen" />
+            <option value="$PROJECT_DIR$/day05_01mutithread" />
+            <option value="$PROJECT_DIR$/day06_01activity" />
+            <option value="$PROJECT_DIR$/day06_02renping" />
+            <option value="$PROJECT_DIR$/day06_03msn" />
+            <option value="$PROJECT_DIR$/day06_04sms" />
+            <option value="$PROJECT_DIR$/day07_01imoocaidl" />
+            <option value="$PROJECT_DIR$/day07_02fragment" />
+            <option value="$PROJECT_DIR$/day07_03fragment2" />
+            <option value="$PROJECT_DIR$/day07_imoocaidl" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

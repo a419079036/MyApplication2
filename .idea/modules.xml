@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2.iml" filepath="$PROJECT_DIR$/MyApplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_01sqlite/day03_01sqlite.iml" filepath="$PROJECT_DIR$/day03_01sqlite/day03_01sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_02shiwu/day03_02shiwu.iml" filepath="$PROJECT_DIR$/day03_02shiwu/day03_02shiwu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_03listview/day03_03listview.iml" filepath="$PROJECT_DIR$/day03_03listview/day03_03listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_04listview/day03_04listview.iml" filepath="$PROJECT_DIR$/day03_04listview/day03_04listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_05listview/day03_05listview.iml" filepath="$PROJECT_DIR$/day03_05listview/day03_05listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_06arrayadapter/day03_06arrayadapter.iml" filepath="$PROJECT_DIR$/day03_06arrayadapter/day03_06arrayadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_07simpleadapter/day03_07simpleadapter.iml" filepath="$PROJECT_DIR$/day03_07simpleadapter/day03_07simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_01urlconnection/day04_01urlconnection.iml" filepath="$PROJECT_DIR$/day04_01urlconnection/day04_01urlconnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_02photos/day04_02photos.iml" filepath="$PROJECT_DIR$/day04_02photos/day04_02photos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_02test/day04_02test.iml" filepath="$PROJECT_DIR$/day04_02test/day04_02test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_03cache/day04_03cache.iml" filepath="$PROJECT_DIR$/day04_03cache/day04_03cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_03caches/day04_03caches.iml" filepath="$PROJECT_DIR$/day04_03caches/day04_03caches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_04handerapi/day04_04handerapi.iml" filepath="$PROJECT_DIR$/day04_04handerapi/day04_04handerapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_05xinwen/day04_05xinwen.iml" filepath="$PROJECT_DIR$/day04_05xinwen/day04_05xinwen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05_01mutithread/day05_01mutithread.iml" filepath="$PROJECT_DIR$/day05_01mutithread/day05_01mutithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_01activity/day06_01activity.iml" filepath="$PROJECT_DIR$/day06_01activity/day06_01activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_02renping/day06_02renping.iml" filepath="$PROJECT_DIR$/day06_02renping/day06_02renping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_03msn/day06_03msn.iml" filepath="$PROJECT_DIR$/day06_03msn/day06_03msn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_04sms/day06_04sms.iml" filepath="$PROJECT_DIR$/day06_04sms/day06_04sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_01imoocaidl/day07_01imoocaidl.iml" filepath="$PROJECT_DIR$/day07_01imoocaidl/day07_01imoocaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_02fragment/day07_02fragment.iml" filepath="$PROJECT_DIR$/day07_02fragment/day07_02fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_03fragment2/day07_03fragment2.iml" filepath="$PROJECT_DIR$/day07_03fragment2/day07_03fragment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07_imoocaidl/day07_imoocaidl.iml" filepath="$PROJECT_DIR$/day07_imoocaidl/day07_imoocaidl.iml" />
+    </modules>
+  </component>
+</project>
